@@ -15,7 +15,7 @@ body{
     padding:30px;
     margin-bottom: 4px;
     background-color:white;
-    color:rgba(255,0,0,0)
+    /* color:rgba(255,0,0,0) */
 
 }
 .active{
@@ -23,7 +23,7 @@ body{
     padding:30px;
     margin-bottom: 4px;
     background-color: lightblue;
-    color:rgba(255,0,0,0)
+    /* color:rgba(255,0,0,0) */
 
 }
 .red{
@@ -31,6 +31,6 @@ body{
     padding:30px;
     margin-bottom: 4px;
     background-color: lightcoral;
-    color:rgba(255,0,0,0)
+    /* color:rgba(255,0,0,0) */
 
 }
