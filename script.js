@@ -1,8 +1,9 @@
-console.log("HEY");
 let gameActive = true;
 //Add event listeners to the boxes
 
 //Event Listeners added
+
+
 const box1 = document.getElementById("1");
 box1.addEventListener("click", handleClick1);
 
@@ -190,11 +191,13 @@ function getAtt(){
     const box_class7= box7.className
     const box_class8= box8.className
     const box_class9= box9.className
+    console.log(box_class1)
+    console.log(box_class2)
 
     // console.log(box_class3)
-    if (box_class1 === box_class2 === box_class3){
-        console.log(true)
-    }
+    // while (box_class1 === box_class2 === box_class3){
+    //     console.log(true)
+    // }
 
 }
 
